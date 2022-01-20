@@ -1,0 +1,249 @@
+Sunlight,Temperature,PH,Waterlevel,Space  ,Label
+1,31.1234212,6.5,High,0.025,Raddish
+1,31.0238712,6,High,0.026,Raddish
+0,29.0756321,7,Moderate,0.027,Raddish
+1,31.0761254,7.5,High,0.028,Raddish
+1,31.1654211,6.8,High,0.029,Raddish
+1,29.1134232,6.8,High,0.03,Beet
+1,30.0186751,7,High,0.031,Beet
+0,27.0278911,6.5,Moderate,0.032,Beet
+0,27.2758961,7.1,Moderate,0.033,Beet
+0,29.3682019,6.8,Moderate,0.034,Beet
+0,28.0186276,7.2,Moderate,0.035,Beet
+0,27.1345321,6.5,Low,1.5,Bitter Guard
+0,26.1235321,6,Low,1.51,Bitter Guard
+1,31.1315321,7,Moderate,1.52,Bitter Guard
+1,32.1345321,7.2,Moderate,1.53,Bitter Guard
+1,33.1345321,6.5,Moderate,1.54,Bitter Guard
+0,24.2442124,6.5,High,0.08,Tomato
+0,26.2442124,7.5,High,0.081,Tomato
+1,25.2201124,7,Low,0.08125,Tomato
+1,27.2442124,6,Low,0.082,Tomato
+1,28.2442124,6.5,Low,0.0822,Tomato
+1,27.3412566,6,High,0.16,Capsicum
+1,28.3412562,6.8,High,0.1615,Capsicum
+0,29.3412569,5.5,Moderate,0.1625,Capsicum
+0,27.3412561,5.7,Moderate,0.163,Capsicum
+0,31.3412566,6.5,Moderate,0.165,Capsicum
+1,30.1453221,6.5,High,1.08,Cucumber
+1,31.1453221,7.5,High,1.081,Cucumber
+0,28.1453221,8.5,Low,1,Cucumber
+0,29.1453221,9.5,Low,1.25,Cucumber
+0,30.1453221,10.5,Low,1.5,Cucumber
+1,26.3419233,7.5,Moderate,9.5,Pumpkin
+1,28.3419233,7,High,6.25,Pumpkin
+1,31.3419233,6.7,High,9.1,Pumpkin
+1,32.2771876,7,Moderate,0.5,Pumpkin
+1,32.3419233,6.5,High,0.5,Pumpkin
+1,28.3717724,5.5,High,0.04,Beans
+1,29.3717724,6,Moderate,0.0425,Beans
+1,30.3717724,6.5,High,0.135,Beans
+1,31.3717724,5.8,Moderate,0.041,Beans
+0,27.2785161,7,Moderate,0.04,Beans 
+0,27.0872772,7.1,High,0.1352,Beans
+0,29.0179721,6.8,High,0.135,Beans
+0,32.3717724,6.4,High,0.07522,Beans
+0,27.3444221,5.5,Moderate,0.06,Squash
+1,28.3444221,6.5,Moderate,0.065,Squash
+1,29.3444221,7.5,Moderate,0.06125,Squash
+1,30.3444221,8.5,Moderate,0.0615,Squash
+1,31.3444221,9.5,Moderate,0.062,Squash
+1,26.1872615,6,Moderate,2.25,Snake Gouard
+1,30.1872343,6.5,Moderate,2.251,Snake Gouard
+1,32.1865151,7,Moderate,5,Snake Gouard
+1,36.1872751,6.1,High,5.1,Snake Gouard
+1,34.0812712,7.5,Moderate,2.25,Snake Gouard
+1,33.0123762,6.6,High,5.12,Snake Gouard
+1,34.1872343,5.5,High,5,Snake Gouard
+1,30.3432014,6.5,High,2.25,Ridged Gouard
+1,28.3431014,7.5,High,2.251,Ridged Gouard
+1,27.3432031,7,High,5,Ridged Gouard
+1,26.3432014,5.5,Moderate,2.25,Ridged Gouard
+1,29.0918821,7,High,2.21,Ridged Gouard
+1,25.3432014,6,Moderate,5.1,Ridged Gouard
+1,29.3415497,4.1,High,0.45,Winged  Beans
+1,26.3415497,4.4,High,0.452,Winged  Beans
+1,25.3415497,4.3,High,0.45,Winged  Beans
+0,27.3415497,4.5,High,0.4,Winged  Beans
+0,28.0187273,4.1,Low,0.451,Winged  Beans
+0,29.5883123,4.2,Low,0.41,Winged  Beans
+0,28.3415497,4,Low,0.42,Winged  Beans
+0,23.2412083,5.5,Moderate,0.27,Chilli
+0,22.2452083,5.7,High,0.36,Chilli
+0,26.2412083,6,High,0.275,Chilli
+0,27.2432083,6.5,Moderate,0.36,Chilli
+0,25.0762172,7,Moderate,0.361,Chilli
+0,26.3178721,7.1,High,0.27,Chilli
+1,26.2721321,6.8,Moderate,0.365,Chilli
+1,27.5132512,7.5,High,0.363,Chilli
+1,32.1562081,6,High,1.8,Kankun
+1,35.1562081,6.5,High,1.82,Kankun
+1,33.1562081,7,Moderate,1.81,Kankun
+1,34.1562081,6.8,Moderate,1.8,Kankun
+1,32.2652081,6.2,Moderate,1.82,Kankun
+1,31.5412703,6.5,Moderate,0.02,Mukunuwenna
+1,30.5412703,6,Moderate,0.025,Mukunuwenna
+1,31.5411703,6.8,Moderate,0.024,Mukunuwenna
+0,32.5412703,7,Low,0.021,Mukunuwenna
+0,33.0821882,6.1,Low,0.02,Mukunuwenna
+0,33.5412703,7.5,Low,0.025,Mukunuwenna
+0,32.2771873,6,High,0.04,Gotukola
+0,33.2771873,6.2,High,0.0225,Gotukola
+0,34.2771873,6.7,High,0.045,Gotukola
+0,35.2771873,7,Moderate,0.0225,Gotukola
+0,36.2771873,6.5,Moderate,0.04,Gotukola
+0,31.3642797,6,Low,0.225,Sweet Potato
+0,32.3642797,5.7,Low,0.3,Sweet Potato
+1,33.3642797,6.5,Low,0.325,Sweet Potato
+1,34.3642797,5.9,High,0.3,Sweet Potato
+1,35.3642797,6.2,High,0.22,Sweet Potato
+1,29.3642797,6,Moderate,0.0225,Spinach
+1,26.3642797,6.5,Moderate,0.02251,Spinach
+1,31.3642797,7,Low,0.2025,Spinach
+1,33.3642797,6.2,Low,0.20251,Spinach
+1,32.5416821,6,Low,0.0225,Spinach
+1,35.3642797,6.1,Low,0.02252,Spinach
+1,29.2663521,6,Moderate,0.09,Turmeric
+1,30.2663521,5.5,Moderate,0.091,Turmeric
+0,31.2663521,6.5,Moderate,0.0912,Turmeric
+0,32.2663521,5.8,Moderate,0.091,Turmeric
+0,27.0818721,5.7,High,0.09,Turmeric
+0,30.0771231,6,High,0.092,Turmeric
+0,32.0928288,5.8,High,0.0925,Turmeric
+1,33.2663521,6.2,High,0.09,Turmeric
+1,30.1572175,6,High,0.0625,Ginger
+1,31.1572175,7,High,1.0625,Ginger
+1,32.1572175,8,High,2.0625,Ginger
+1,33.1572175,9,High,3.0625,Ginger
+1,34.1572175,10,High,4.0625,Ginger
+0,32.5413075,5,Moderate,4,Kathurumurunga
+0,33.5413075,6,Moderate,5,Kathurumurunga
+0,34.5413075,7,Moderate,6,Kathurumurunga
+0,35.5413075,8,Moderate,7,Kathurumurunga
+1,36.5413075,9,Moderate,8,Kathurumurunga
+1,37.5413075,10,Moderate,9,Kathurumurunga
+1,29.5372313,5.8,Moderate,0.81,Brinjals
+1,30.5372313,6.8,Moderate,1.81,Brinjals
+1,31.5372313,7.8,Moderate,2.81,Brinjals
+1,32.5372313,8.8,Moderate,3.81,Brinjals
+1,33.5372313,9.8,Moderate,4.81,Brinjals
+1,33.7102987,5.5,Moderate,0.03,nol khol
+1,34.7102987,6.5,Moderate,1.03,nol khol
+1,35.7102987,7.5,Moderate,2.03,nol khol
+1,36.7102987,8.5,Moderate,3.03,nol khol
+1,37.7102987,9.5,Moderate,4.03,nol khol
+1,28.2431898,6,High,0.81,Cassava
+1,29.2431898,7,High,1.81,Cassava
+1,30.2431898,8,High,2.81,Cassava
+1,31.2431898,9,High,3.81,Cassava
+1,32.2431898,10,High,4.81,Cassava
+1,31.0132398,5.5,Moderate,30,Guava
+1,32.0132398,6.5,Moderate,31,Guava
+1,33.0132398,7.5,Moderate,32,Guava
+1,34.0132398,8.5,Moderate,33,Guava
+1,35.0132398,9.5,Moderate,34,Guava
+1,27.3103498,7,Moderate,100,Mangoostenes
+1,28.3103498,8,Moderate,101,Mangoostenes
+1,29.3103498,9,Moderate,102,Mangoostenes
+0,30.3103498,10,Moderate,103,Mangoostenes
+0,31.3103498,7,Moderate,104,Mangoostenes
+0,28.1323782,5.7,High,52,Avacado
+0,29.1323782,6.7,High,53,Avacado
+0,30.1323782,7.7,High,54,Avacado
+1,31.1323782,8.7,High,55,Avacado
+1,32.1323782,9.7,High,56,Avacado
+1,31.2173367,6.5,Moderate,0.5,Watermelon
+1,32.2173367,7.5,Moderate,1.5,Watermelon
+1,33.2173367,8.5,Moderate,2.5,Watermelon
+1,34.2173367,9.5,Moderate,3.5,Watermelon
+1,35.2173367,10.5,Moderate,4.5,Watermelon
+1,32.2779721,6,High,200,Papaya
+1,33.2779721,7,High,201,Papaya
+1,34.2779721,8,High,202,Papaya
+1,35.2779721,9,High,203,Papaya
+1,36.2779721,10,High,204,Papaya
+1,27.2412083,6.4,Moderate,16,Karapincha
+1,28.2412083,7.4,Moderate,17,Karapincha
+1,29.2412083,8.4,Moderate,18,Karapincha
+1,30.2412083,9.4,Moderate,19,Karapincha
+1,31.2412083,10.4,Moderate,20,Karapincha
+1,30.1562081,6.8,High,10,Rampe
+1,31.1562081,7.8,High,11,Rampe
+1,32.1562081,8.8,High,12,Rampe
+0,33.1562081,9.8,High,13,Rampe
+0,34.1562081,10.8,High,14,Rampe
+0,29.5412702,10,Moderate,0.025,Cinnamon
+0,30.5412702,11,Moderate,1.025,Cinnamon
+0,31.5412702,12,Moderate,2.025,Cinnamon
+1,32.5412702,13,Moderate,3.025,Cinnamon
+1,33.5412702,14,Moderate,4.025,Cinnamon
+1,32.2771871,7.5,High,0.54,Okra
+1,33.2771871,8.5,High,1.54,Okra
+1,34.2771871,9.5,High,2.54,Okra
+1,35.2771871,10.5,High,3.54,Okra
+1,30.2771871,6,High,4.54,Okra
+1,30.3642794,6,Moderate,5.76,Pepper
+1,31.3642794,7,Moderate,6.76,Pepper
+1,32.3642794,8,Moderate,7.76,Pepper
+1,33.3642794,9,Moderate,8.76,Pepper
+1,34.3642794,10,Moderate,9.76,Pepper
+1,27.2663521,7,Moderate,0.03,Innala
+1,28.2663521,8,Moderate,1.03,Innala
+1,29.2663521,9,Moderate,2.03,Innala
+0,30.2663521,10,Moderate,3.03,Innala
+0,31.2663521,11,Moderate,4.03,Innala
+0,30.1572176,6,Moderate,5,Thibbatu
+0,31.1572176,7,Moderate,6,Thibbatu
+0,32.1572176,8,Moderate,7,Thibbatu
+1,33.1572176,9,Moderate,8,Thibbatu
+1,34.1572176,10,Moderate,9,Thibbatu
+1,32.5413074,6.5,High,0.01,Sarana
+1,33.5413074,7.5,High,1.01,Sarana
+1,34.5413074,8.5,High,2.01,Sarana
+1,35.5413074,9.5,High,3.01,Sarana
+1,36.5413074,10.5,High,4.01,Sarana
+1,29.5372313,5.7,Moderate,0.54,Ela batu
+1,30.5372313,6.7,Moderate,1.54,Ela batu
+1,31.5372313,7.7,Moderate,2.54,Ela batu
+1,32.5372313,8.7,Moderate,3.54,Ela batu
+1,33.5372313,9.7,Moderate,4.54,Ela batu
+1,33.7102987,6,Moderate,0.09,Kohila
+1,34.7102987,7,Moderate,1.09,Kohila
+1,35.7102987,8,Moderate,2.09,Kohila
+1,36.7102987,9,Moderate,3.09,Kohila
+1,37.7102987,10,Moderate,4.09,Kohila
+1,28.2431898,5.5,Moderate,1,Thumba Karawila
+1,29.2431898,6.5,Moderate,2,Thumba Karawila
+1,30.2431898,7.5,Moderate,3,Thumba Karawila
+1,31.2431898,8.5,Moderate,4,Thumba Karawila
+1,32.2431898,9.5,Moderate,5,Thumba Karawila
+1,31.0132398,6.5,High,345,Lime
+1,32.0132398,7.5,High,346,Lime
+1,33.0132398,8.5,High,347,Lime
+1,34.0132398,9.5,High,348,Lime
+1,35.0132398,10.5,High,349,Lime
+1,27.3103498,7,High,16,Orange
+1,28.3103498,8,High,17,Orange
+1,29.3103498,9,High,18,Orange
+0,30.3103498,10,High,19,Orange
+0,31.3103498,11,High,20,Orange
+0,28.1323782,5.5,High,20,Star Fruit
+0,29.1323782,6.5,High,21,Star Fruit
+0,30.1323782,7.5,High,22,Star Fruit
+0,31.1323782,8.5,High,23,Star Fruit
+0,32.1323782,9.5,High,24,Star Fruit
+0,28.2173367,4.5,High,100,Rambutan
+0,29.2173367,5.5,High,101,Rambutan
+0,30.2173367,6.5,High,102,Rambutan
+0,31.2173367,7.5,High,103,Rambutan
+1,32.2173367,8.5,High,104,Rambutan
+1,30.2779721,5,High,20,Pani Dodam
+1,31.2779721,6,High,21,Pani Dodam
+1,32.2779721,7,High,22,Pani Dodam
+1,33.2779721,8,High,23,Pani Dodam
+0,34.2779721,9,High,24,Pani Dodam
+0,17.3789123,6,Low,0.05,Carrot
+0,20.3781573,7.5,High,0.025,Carrot
+0,21.3781574,7,Moderate,0.01,Carrot
+0,23.3781573,8.5,Low,0.125,Carrot
+0,19.3751573,9,High,0.02,Carrot
