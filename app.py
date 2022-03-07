@@ -27,14 +27,15 @@ def index():
 
 def predict():
 
-    Sunlight = request.form.get('Sunlight')
+    Humidity = request.form.get('Humidity')
     Temperature = request.form.get('Temperature')
+    SoilMoisture = request.form.get('SoilMoisture')
     PH = request.form.get('PH')
     Waterlevel = request.form.get('Waterlevel')
     Space = request.form.get('Space')
 
     data = []
-    data.append([Sunlight,Temperature,PH,Waterlevel,Space])
+    data.append([Humidity,Temperature,SoilMoisture,PH,Waterlevel,Space])
 
     prediction = clf.predict(data)[0]
 

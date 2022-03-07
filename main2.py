@@ -7,7 +7,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 
 #Load the dataset
-df = pd.read_csv("HomeGardenCrops.csv")
+df = pd.read_csv("Gardening Crops.csv")
 
 df = df.iloc[:,:].values
 df1 = pd.DataFrame(df)
@@ -15,9 +15,19 @@ df1 = pd.DataFrame(df)
 #Get first 5 rows in the dataset
 df1.head()
 
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder
+
+
+Waterlevel = LabelEncoder()
+
+df1[:,4] = Waterlevel.fit_transform(df1[:,4])
+
+df1 = pd.DataFrame(df)
+
+
 #Split the dataset into feature and target variables
 x = df1.iloc[:,0:5]
-y = df1.iloc[:, [-2,-1]]
+y = df1.iloc[:,-1]
 
 
 print(x)
