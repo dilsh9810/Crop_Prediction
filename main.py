@@ -48,7 +48,7 @@ x = df1.iloc[:,0:6]
 y = df1.iloc[:,-1]
 
 #Split the features and target variable of the dataset into train and test data
-x_train, x_test, y_train, y_test = train_test_split(x,y,test_size=0.2, random_state=1)
+x_train, x_test, y_train, y_test = train_test_split(x,y,test_size=0.5, random_state=1)
 
 #Display train and test values
 

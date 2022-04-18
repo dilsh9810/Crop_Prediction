@@ -27,8 +27,6 @@ def index():
 
 def predict():
 
-
-    if request.method == 'POST':
         Humidity = request.form.get('Humidity')
         Temperature = request.form.get('Temperature')
         SoilMoisture = request.form.get('SoilMoisture')
@@ -42,15 +40,15 @@ def predict():
         prediction = clf.predict(data)[0]
 
 
-    #print the result
-    return jsonify({
+        #print the result
+        return jsonify({
 
-            "suitable crop is": str(prediction)
+            "suitable crop is" : str(prediction)
 
         })
 
 
 
-    if __name__ == '__main__':
-        app.run(debug=True)
+        if __name__ == '__main__':
+            app.run(debug=True)
 
