@@ -27,17 +27,19 @@ def index():
 
 def predict():
 
-    Humidity = request.form.get('Humidity')
-    Temperature = request.form.get('Temperature')
-    SoilMoisture = request.form.get('SoilMoisture')
-    PH = request.form.get('PH')
-    Waterlevel = request.form.get('Waterlevel')
-    Space = request.form.get('Space')
 
-    data = []
-    data.append([Humidity,Temperature,SoilMoisture,PH,Waterlevel,Space])
+    if request.method == 'POST':
+        Humidity = request.form.get('Humidity')
+        Temperature = request.form.get('Temperature')
+        SoilMoisture = request.form.get('SoilMoisture')
+        PH = request.form.get('PH')
+        Waterlevel = request.form.get('Waterlevel')
+        Space = request.form.get('Space')
 
-    prediction = clf.predict(data)[0]
+        data = []
+        data.append([Humidity,Temperature,SoilMoisture,PH,Waterlevel,Space])
+
+        prediction = clf.predict(data)[0]
 
 
     #print the result
@@ -50,5 +52,5 @@ def predict():
 
 
     if __name__ == '__main__':
-        app.run(host= '0.0.0.0')
+        app.run(debug=True)
 
