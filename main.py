@@ -27,6 +27,7 @@ from sklearn.externals import joblib
 #Load the dataset
 df = pd.read_csv("Gardening Crops.csv")
 
+#Configure dataset
 df = df.iloc[:,:].values
 df1 = pd.DataFrame(df)
 
@@ -44,6 +45,7 @@ df[:,4] = Waterlevel.fit_transform(df[:,4])
 
 df1 = pd.DataFrame(df)
 
+#Split Dataset Into Independent and Dependent Variable
 x = df1.iloc[:,0:6]
 y = df1.iloc[:,-1]
 
